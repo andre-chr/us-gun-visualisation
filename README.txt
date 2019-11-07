@@ -1,4 +1,4 @@
-This directory consists of a project for FIT5147 data visualisation project.
+This directory consists of files for FIT5147 data visualisation project.
 
 to run: 
 - Open terminal/commandline
