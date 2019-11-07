@@ -1,6 +1,9 @@
 This directory consists of files for FIT5147 data visualisation project.
 
-to run: 
+Prerequisite: 
+- Unzip "datasets.zip"
+
+Running steps:
 - Open terminal/commandline
 - Navigate to this directory using cd
 - run "python -m SimpleHTTPServer 8000"
